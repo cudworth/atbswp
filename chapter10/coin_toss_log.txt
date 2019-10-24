@@ -1,0 +1,7 @@
+2019-10-14 22:19:24,949 - DEBUG - Coin state is 0
+2019-10-14 22:19:47,269 - DEBUG - Coin state is 1
+2019-10-14 22:20:17,062 - DEBUG - Coin state is 0
+2019-10-14 22:20:22,969 - DEBUG - Coin state is 1
+2019-10-24 10:12:31,624 - DEBUG - Coin state is 1
+2019-10-24 10:12:38,028 - DEBUG - Coin state is 0
+2019-10-24 10:12:42,972 - DEBUG - Coin state is 1
